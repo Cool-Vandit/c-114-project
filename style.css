@@ -1,0 +1,13 @@
+button {
+    margin-top: 500px ;
+}
+
+.informer {
+    font-size: 30px;
+    box-shadow: 5px 5px 10px forestgreen;
+}
+
+canvas {
+    border-radius: 10px;
+    border: dodgerblue solid 4px ;
+}
